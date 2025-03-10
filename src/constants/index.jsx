@@ -129,11 +129,11 @@ export const resourcesLinks = [
 ];
 
 export const contactLinks = [
-  { href: "https://instagram.com/yourprofile", text: "Instagram", icon: <Instagram size={12} /> },
-  { href: "https://twitter.com/yourprofile", text: "Twitter", icon: <Twitter size={12} /> },
-  { href: "https://www.linkedin.com/in/swanjithak", text: "LinkedIn", icon: <Linkedin size={12} /> },
-  { href: "mailto:contact@yourstartup.com", text: "Email: contact@yourstartup.com", icon: <Mail size={12} /> },
-  { href: "tel:+1234567890", text: "Phone: +123 456 7890", icon: <Phone size={12} /> },
+  { href: "https://www.instagram.com/innovatech_softwares_?igsh=Y3B2dDZoOTZxMHpx", text: "Instagram", icon: <Instagram size={12} /> },
+  { href: "https://twitter.com", text: "Twitter", icon: <Twitter size={12} /> },
+  { href: "https://www.linkedin.com", text: "LinkedIn", icon: <Linkedin size={12} /> },
+  { text: "Email:softwaresinnovatech@gmail.com", icon: <Mail size={12} /> },
+  { text: "Phone: +917975402353 / +919686724126", icon: <Phone size={12} /> },
 ];
 
 export const developmentLinks = [

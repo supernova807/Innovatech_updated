@@ -12,6 +12,13 @@
 html {
     scroll-behavior: smooth;
   }
+  /* Custom Tailwind style or in your global CSS */
+@media (max-width: 640px) {
+    .contact-us-section {
+      padding-left: 0.5rem; /* Shift it slightly left */
+    }
+  }
+  
   
   
 

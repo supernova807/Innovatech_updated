@@ -20,6 +20,12 @@ function Projects() {
         </p>
 
         {/* Centering the Project */}
+        <a
+          href="https://play.google.com/store/apps/details?id=com.outreachllp.net&pcampaignid=web_share"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex justify-center"
+        >
         <div className="flex justify-center">
           <div className="bg-neutral-800 p-6 rounded-2xl shadow-lg hover:scale-105 transition-all duration-300 max-w-md">
             <img
@@ -31,6 +37,8 @@ function Projects() {
             <p className="text-neutral-400">{projects[0].description}</p>
           </div>
         </div>
+      </a>
+
       </div>
     </div>
   );
